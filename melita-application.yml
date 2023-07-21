@@ -3,3 +3,6 @@ spring:
     host: localhost
 timeSlot:
   daysInFuture: 2
+rabbitmq:
+  exchange:
+    name: exchangeNewOrderEvent
