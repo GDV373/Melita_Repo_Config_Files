@@ -5,4 +5,4 @@ timeSlot:
   daysInFuture: 2
 rabbitmq:
   exchange:
-    name: exchangeNewOrderEvent
+    name: onNewOrderEvent-in-0
